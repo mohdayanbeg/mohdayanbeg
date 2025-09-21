@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Ayan 👋 A passionate tech enthusiast and lifelong learner.
+# 💫 Hi, I’m Ayan 
+👋 A passionate tech enthusiast and lifelong learner.
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@ Hi, I’m Ayan 👋 A passionate tech enthusiast and lifelong learner.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohdayanbeg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
