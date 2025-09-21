@@ -48,4 +48,4 @@ A passionate tech enthusiast and a lifelong learner with a strong foundation in 
 
 ---
 
-![Profile views](https://visitcount.itsvg.in/api?id=mohdayanbeg&icon=0&color=0)
+![Profile views](https://komarev.com/ghpvc/?username=mohdayanbeg)
