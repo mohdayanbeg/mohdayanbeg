@@ -18,11 +18,19 @@ A passionate tech enthusiast and a lifelong learner with a strong foundation in 
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdayanbeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Ayan's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohdayanbeg&theme=dark&hide_border=false" alt="Ayan's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanbeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ayan's Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohdayanbeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Ayan's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdayanbeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ayan's Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mohdayanbeg&theme=dark&hide_border=false" alt="Ayan's Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
