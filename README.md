@@ -1,4 +1,4 @@
-👋 Hi, I'm Ayan!
+#👋 Hi, I'm Ayan!
 
 A passionate tech enthusiast and a lifelong learner with a strong foundation in full-stack web development and problem-solving. I enjoy building dynamic, user-friendly applications and am always eager to learn new technologies and improve my skills.
 
